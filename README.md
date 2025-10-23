@@ -5,7 +5,7 @@ List of changes:
 - Added back mp3/aac support
 - Added new text features
   - RGB text color support by putting "\x1b[r;g;bm" in a line. Values are from 0-31
-  - Ghange the font with \font(fontname.ttf). Works mid-line as well. Fonts go in the root folder of the novel, and it needs a font called default.ttf in there or it'll probably break.
+  - Change the font with \font(fontname.ttf). Works mid-line as well. Fonts go in the root folder of the novel, and it needs a font called default.ttf in there or it'll probably break.
   - Use \n for a new line
   - Use \i to display the rest of the line instantly, regardless of text speed
 - Text now auto-scrolls so only the most recent message is shown on-screen, so you don't have to move your eyes as much
