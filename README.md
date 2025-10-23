@@ -19,3 +19,6 @@ List of changes:
 - Disabled the loading animation during delay commands
 - Fixed a bug where quickly tapping up or down in a choice would move up or down 2 options instead of 1
 - Fixed the pause between lines when text has a custom color (or at least reduced it)
+
+
+Original version is from https://github.com/asiekierka/vnds
